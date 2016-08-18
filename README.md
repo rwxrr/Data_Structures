@@ -1,1 +1,1 @@
-#Linked_List
+#Data Structures dersi için örnek kodlar.
